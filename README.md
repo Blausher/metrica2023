@@ -1,3 +1,5 @@
 # metrica2023
 
-ДЗ 2
+3year.arff - датасет
+
+metrica2023.ipynb - код
